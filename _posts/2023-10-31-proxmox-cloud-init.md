@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My perfect Proxmox cloud init image"
-date: 2023-10-31 07:00:00
+date: 2023-10-30 10:45:00
 categories: homelab
 tags: homelab linux ubuntu
 ---
