@@ -1,0 +1,16 @@
+---
+layout: post
+title: "My perfect Proxmox cloud init image"
+date: 2023-10-31 07:00:00 -0500
+categories: homelab
+tags: homelab linux ubuntu
+---
+
+[![Instructions]
+
+```bash
+wget https://cloud.debian.org/images/cloud/bullseye/20220613-1045/debian-11-genericcloud-amd64-20220613-1045.qcow2
+
+```bash
+qm create 9500 --name Debian11CloudInit --net0 virtio,bridge=vmbr0 --kvm 0
+
