@@ -2,7 +2,7 @@
 layout: post
 title: "My perfect Proxmox cloud init image"
 date: 2023-10-30 10:45:00
-categories: homelab
+categories: homelab proxmox
 tags: homelab linux debian proxmox
 ---
 
