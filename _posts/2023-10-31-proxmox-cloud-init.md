@@ -15,3 +15,7 @@ Create Cloud init image in Proxmox
 ```bash
 qm create 9500 --name Debian11CloudInit --net0 virtio,bridge=vmbr0 --kvm 0
 ```
+
+```bash
+qm importdisk 9500 debian-11-genericcloud-amd64-20220613-1045.qcow2 local-lvm
+```
