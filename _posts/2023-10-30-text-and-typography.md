@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 author: cotes
-date: 2023-10-30 10:05:00 +0800
+date: 2023-10-30 10:05:00
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
