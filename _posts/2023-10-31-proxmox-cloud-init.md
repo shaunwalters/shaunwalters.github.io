@@ -6,8 +6,6 @@ categories: homelab
 tags: homelab linux ubuntu
 ---
 
-[![Instructions]
-
 Pull down Debian 11 cloud image
 ```bash
 wget https://cloud.debian.org/images/cloud/bullseye/20220613-1045/debian-11-genericcloud-amd64-20220613-1045.qcow2
